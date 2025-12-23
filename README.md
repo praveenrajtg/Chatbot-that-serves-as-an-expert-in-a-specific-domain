@@ -1,4 +1,3 @@
-# Chatbot-that-serves-as-an-expert-in-a-specific-domain
 # 🤖 Domain Expert Chatbot - arXiv Research Assistant
 
 A sophisticated AI-powered chatbot that serves as a domain expert in Computer Science, capable of answering complex queries, explaining concepts, and providing summaries of research papers from the arXiv dataset.

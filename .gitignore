@@ -1,0 +1,35 @@
+# Virtual Environment
+venv/
+env/
+.env
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data files (optional - uncomment if you don't want to upload large datasets)
+# data/
+# *.json
+
+# Model cache
+.cache/
+models/
+
+# Logs
+*.log
+
+# Streamlit
+.streamlit/
